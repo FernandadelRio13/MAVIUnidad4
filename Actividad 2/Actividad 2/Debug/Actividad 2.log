@@ -1,0 +1,22 @@
+﻿  Actividad 2.cpp
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,80): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,80): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,80): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,80): warning C4244:             T=float
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,80): warning C4244:         ]
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,61): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,61): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,61): warning C4244:             T=float
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(46,61): warning C4244:         ]
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,84): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,84): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,84): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,84): warning C4244:             T=float
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,84): warning C4244:         ]
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,65): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,65): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,65): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,65): warning C4244:             T=float
+C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Actividad 2\Actividad 2.cpp(49,65): warning C4244:         ]
+  Actividad 2.vcxproj -> C:\Users\maria\Desktop\Uni\Unidad 4 MAVI\Actividad 2\Debug\Actividad 2.exe
